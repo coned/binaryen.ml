@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.11.0](https://www.github.com/grain-lang/binaryen.ml/compare/v0.10.0...v0.11.0) (2021-11-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove MacOS-specific library flags (#111)
+* Require OCaml 4.12 (#108)
+
+### Features
+
+* Remove MacOS-specific library flags ([#111](https://www.github.com/grain-lang/binaryen.ml/issues/111)) ([5a67f9f](https://www.github.com/grain-lang/binaryen.ml/commit/5a67f9f330332f8957976841819707d09124dc94))
+* Require OCaml 4.12 ([#108](https://www.github.com/grain-lang/binaryen.ml/issues/108)) ([36eedea](https://www.github.com/grain-lang/binaryen.ml/commit/36eedea279fb19ee6131b72b21c24ba0a9d7f993))
+
 ## [0.10.0](https://www.github.com/grain-lang/binaryen.ml/compare/v0.9.1...v0.10.0) (2021-05-09)
 
 

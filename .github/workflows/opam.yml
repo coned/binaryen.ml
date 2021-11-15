@@ -21,7 +21,7 @@ jobs:
           submodules: "recursive"
 
       - name: Setup OCaml ${{ matrix.ocaml-compiler }}
-        uses: ocaml/setup-ocaml@5ffb7bc1ab89db68a03d64e1a8ca3021a5c844fb
+        uses: ocaml/setup-ocaml@v2.0.0-beta5
         with:
           ocaml-compiler: ${{ matrix.ocaml-compiler }}
 

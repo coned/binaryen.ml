@@ -3,4 +3,4 @@
  (public_name binaryen)
  (virtual_modules element_segment export expression function global import
    literal memory module op settings table type)
- (default_implementation binaryen.native))
+ (default_implementation binaryen.js))
